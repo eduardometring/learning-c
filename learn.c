@@ -1,4 +1,4 @@
-# includes <stdio.h>
+# include <stdio.h>
 int main() {
   int gay = 4;
   printf("%d", n);
