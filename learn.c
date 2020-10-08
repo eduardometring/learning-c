@@ -1,4 +1,5 @@
 # include <stdio.h>
+# include <stdlib.h>
 int main() {
   int gay = 4;
   printf("%d", gay);
@@ -10,4 +11,5 @@ int main() {
   printf("Pedrinho Gameplays is %d", age);
   printf("\n");
   return 0;
+  system("pause");
 }
