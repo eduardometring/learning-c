@@ -10,6 +10,12 @@ int main() {
   age = 13;
   printf("Pedrinho Gameplays is %d", age);
   printf("\n");
+  age = 11;
+  printf("Annie is %d", age);
+  int followers = 67;
+  printf(" and she has %d", followers);
+  printf(" followers on Instagram\n");
+  printf("Annie is %d and she has %d followers on Instagram\n", age, followers );
   return 0;
   system("pause");
 }
