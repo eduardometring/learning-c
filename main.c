@@ -16,6 +16,10 @@ int main() {
   printf(" and she has %d", followers);
   printf(" followers on Instagram\n");
   printf("Annie is %d and she has %d followers on Instagram\n", age, followers );
+  int you;
+  printf("How old are you?");
+  scanf("%d", &you);
+  printf("Ok you are %d, cool.\n", you);
   return 0;
   system("pause");
 }
