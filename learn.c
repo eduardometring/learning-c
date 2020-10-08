@@ -1,6 +1,7 @@
 # includes <stdio.h>
-
 int main() {
-  printf("Jaime Automóveis is gay\n");
+  int gay = 4;
+  printf("%d", n);
+  printf("\nJaime Automóveis is gay\n");
   return 0;
 }
