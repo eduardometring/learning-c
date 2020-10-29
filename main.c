@@ -20,6 +20,20 @@ int main() {
   printf("How old are you?");
   scanf("%d", &you);
   printf("Ok you are %d, cool.\n", you);
+  float dasdasd = 2.5;
+  if(dasdasd == 2.5) {
+    printf("Ok LOLZ\n");
+  } else if (dasdasd > 2.5) {
+    printf("ok\n");
+  } else {
+    printf("ew no\n");
+  }
+  int one = 2;
+  if(one != 1) {
+    printf("?????????????????????????\n");
+  } else if(one == 1) {
+    printf("ok\n");
+  }
   return 0;
   system("pause");
 }
